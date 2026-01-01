@@ -1,7 +1,7 @@
 # Gravity Assist Simulation (VPython)
 
 This project simulates a spacecraft performing a gravity assist maneuver around Jupiter
-using numerical integration of Newtonian gravity.
+using numerical integration of Newtonian gravity, done for a project in PHYS172.
 
 ## Overview
 - Models the spacecraft and Jupiter as interacting bodies
